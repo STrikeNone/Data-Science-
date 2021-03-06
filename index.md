@@ -11,3 +11,5 @@ I hope this page will be able to also reveal my growth and knowledge in Data Sci
 [Linear Regression](https://github.com/STrikeNone/DSAI/blob/main/Special%20Challenge%201.ipynb) Using Advertisement Sale Price Dataset from Kaggle, i attempt to use a Linear Regression Model to predict the Sale Price. I attempted both Uni and Multi-Variate Linear Regression and did some Exploratory Analysis on the Dataset as well. The Dataset can be found [here](https://www.kaggle.com/ashydv/advertising-dataset).
 
 [Movie Recommender (Improved)](https://github.com/STrikeNone/DSAI/blob/Surprise-Movie/Surprise%20Movie.ipynb) Improving on the first movie recommender project, i did collaborative filtering in addition to content based filtering. I also tried to find ways to use the movies recommended to recommend me an ongoing movie in Golden Village (Theatre)
+
+[Shopee Hackathon 2021 Data Analytics Challenge](https://github.com/STrikeNone/DSAI/blob/main/Shoppee%20%23%201%20Data%20Analytics.ipynb) 
