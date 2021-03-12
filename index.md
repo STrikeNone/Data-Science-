@@ -13,3 +13,5 @@ I hope this page will be able to also reveal my growth and knowledge in Data Sci
 [Movie Recommender (Improved)](https://github.com/STrikeNone/DSAI/blob/Surprise-Movie/Surprise%20Movie.ipynb) Improving on the first movie recommender project, i did collaborative filtering in addition to content based filtering. I also tried to find ways to use the movies recommended to recommend me an ongoing movie in Golden Village (Theatre)
 
 [Shopee Hackathon 2021 Data Analytics Challenge](https://github.com/STrikeNone/DSAI/blob/main/Shoppee%20%23%201%20Data%20Analytics.ipynb) 
+
+[Random Forest with GridSearchCV](https://github.com/STrikeNone/DSAI/blob/main/DecisionTree%20Challenge.ipynb) My first attempt at using GridSearchCV to try to identify the best features and hyperparameters to use
