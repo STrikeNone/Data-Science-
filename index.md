@@ -15,3 +15,5 @@ I hope this page will be able to also reveal my growth and knowledge in Data Sci
 [Shopee Hackathon 2021 Data Analytics Challenge](https://github.com/STrikeNone/DSAI/blob/main/Shoppee%20%23%201%20Data%20Analytics.ipynb) 
 
 [Random Forest with GridSearchCV](https://github.com/STrikeNone/DSAI/blob/main/DecisionTree%20Challenge.ipynb) My first attempt at using GridSearchCV to try to identify the best features and hyperparameters to use
+
+[Full Exploratory Data Analysis](https://github.com/STrikeNone/DSAI/blob/main/EDA_Assignment.ipynb) Full EDA on a Dataset for Students with abit of Machine Learning
