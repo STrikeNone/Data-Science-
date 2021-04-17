@@ -18,4 +18,4 @@ I hope this page will be able to also reveal my growth and knowledge in Data Sci
 
 [Full Exploratory Data Analysis](https://github.com/STrikeNone/DSAI/blob/main/EDA_Assignment.ipynb) Full EDA on a Dataset for Students with abit of Machine Learning
 
-[Movie Recommender](https://github.com/STrikeNone/DSAI/blob/main/CZ1016_PuahYiHao_TohYongLi_WongYingXuan.ipynb) This is a full project i worked on with 2 other people for our CZ1016 Introduction to Data Science module. It is a movie recommender for Golden Village Singapore. We first did Data Handling/Cleaning, EDA and then applied Collaborative and Content Filtering. Certainly an eye opening project for me.
+[Movie Recommender (Full Scale Project)](https://github.com/STrikeNone/DSAI/blob/main/CZ1016_PuahYiHao_TohYongLi_WongYingXuan.ipynb) This is a full project i worked on with 2 other people for our CZ1016 Introduction to Data Science module. It is a movie recommender for Golden Village Singapore. We first did Data Handling/Cleaning, EDA and then applied Collaborative and Content Filtering. Certainly an eye opening project for me.
