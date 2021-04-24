@@ -4,6 +4,8 @@
 
 I hope this page will be able to also reveal my growth and knowledge in Data Science.
 
+[Revision Notes](https://github.com/STrikeNone/DSAI/blob/main/CZ1016%20Notes%20Yi%20Hao.pdf) Feel free to take a look at my revision notes for Year 1 Semester 2 Mod CZ1016 Introduction to Data Science
+
 [Decision Trees](https://github.com/STrikeNone/Data-Science-/blob/main/Mini%20Project.ipynb) This is my first ever project in Data Science. I used a simple Decision Tree classifier to try and predict whether customers were going to leave a bank. 
 
 [Movie Recommender](https://github.com/STrikeNone/Data-Science-/blob/main/Movie_Recommender.ipynb) This is my attempt at creating a simple recommender for movies. I used Count Vectorizers (which is like encoding words from my understanding and applied to NLP) on selected features and then applied Cosine Similarity on them in order to determine, the closest movies. The dataset i used was [Dataset](https://github.com/STrikeNone/Data-Science-/blob/main/IMDB%20Movies.csv) and the [Youtuber](https://www.youtube.com/watch?v=ueKXSupHz6Q&ab_channel=ComputerScience) that i referenced to.
