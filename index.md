@@ -23,3 +23,6 @@ I hope this page will be able to also reveal my growth and knowledge in Data Sci
 [Movie Recommender (Full Scale Project)](https://github.com/STrikeNone/DSAI/blob/main/CZ1016_PuahYiHao_TohYongLi_WongYingXuan.ipynb) This is a full project i worked on with 2 other people for our CZ1016 Introduction to Data Science module. It is a movie recommender for Golden Village Singapore. We first did Data Handling/Cleaning, EDA and then applied Collaborative and Content Filtering. Certainly an eye opening project for me.
 
 [Deep Learning](https://github.com/STrikeNone/DSAI/blob/main/Deep%20Learning%20MNIST%20and%20Animals.ipynb) Convolutional Neural Network
+
+[Deep Learning Titanic](https://github.com/STrikeNone/DSAI/blob/main/Titanic%20Neural%20Network.ipynb) Used a Neural Network w/ Sigmoid for the Titanic Dataset to achieve over 90%
+
