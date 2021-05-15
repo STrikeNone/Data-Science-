@@ -1,8 +1,8 @@
-## Welcome to Yi Hao's Portfolio. I am a Year 1 student pursuing a Bachelor of Science in Data Science and Artificial Intelligence.
+## Welcome to Yi Hao's Portfolio. I am a incoming Year 2 student pursuing a Bachelor of Science in Data Science and Artificial Intelligence (NTU). 
 
 (For my reference) [editor on GitHub](https://github.com/STrikeNone/Data-Science-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. 
 
-I hope this page will be able to also reveal my growth and knowledge in Data Science.
+This page aims to showcase my growth in knowledge and experience in Data Science. I will be focusing more on Neural Networks and the classical problems of Data Science here. Do check out my work in [Computer Vision](https://github.com/STrikeNone/OpenCV) in both C++ and Python.
 
 [Revision Notes](https://github.com/STrikeNone/DSAI/blob/main/CZ1016%20Notes%20Yi%20Hao.pdf) Feel free to take a look at my revision notes for Year 1 Semester 2 Mod CZ1016 Introduction to Data Science
 
@@ -24,5 +24,7 @@ I hope this page will be able to also reveal my growth and knowledge in Data Sci
 
 [Deep Learning](https://github.com/STrikeNone/DSAI/blob/main/Deep%20Learning%20MNIST%20and%20Animals.ipynb) Convolutional Neural Network
 
-[Deep Learning Titanic](https://github.com/STrikeNone/DSAI/blob/main/Titanic%20Neural%20Network.ipynb) Used a Neural Network w/ Sigmoid for the Titanic Dataset to achieve over 90%
+[Neural Network Titanic](https://github.com/STrikeNone/DSAI/blob/main/Titanic%20Neural%20Network.ipynb) Used a Neural Network w/ Sigmoid for the Titanic Dataset to achieve over 90%
+
+[Recurrent Neural Network Name Classification](https://github.com/STrikeNone/DSAI/blob/main/Recurrent%20Neural%20Networks%20(RNN).ipynb) First attempt at RNN's to guess the language a name belongs to. Learned with reference to Python Engineers [tutorial](https://www.youtube.com/watch?v=WEV61GmmPrk). Will be attempting more in my free time
 
